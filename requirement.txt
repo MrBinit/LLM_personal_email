@@ -1,0 +1,11 @@
+transformers==4.11.3
+peft==0.1.1
+bitsandbytes==0.1.0
+trl==0.5.0
+deepeval==0.1.0
+optimum==0.1.0
+auto-gptq==0.1.0
+langchain==0.2.0
+torch==1.10.0
+flask==2.1.0
+datasets==1.15.0
